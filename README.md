@@ -85,8 +85,4 @@ If you're interested in collaborating on a project or need help with a specific 
 
 Let's connect on social media or through email to stay in touch and discuss new project ideas.
 
-<<<<<<< HEAD
 Please note that I've organized the technologies into categories (Programming Languages, Frameworks and Libraries, Databases, and Other) to make it easier to scan and understand. I've also added a collaboration and help request section, as well as a call-to-action to connect with you. Feel free to customize it as you see fit!
-=======
-Please note that I've organized the technologies into categories (Programming Languages, Frameworks and Libraries, Databases, and Other) to make it easier to scan and understand. I've also added a collaboration and help request section, as well as a call-to-action to connect with you. Feel free to customize it as you see fit!
->>>>>>> 867aee8d4601f4865ccacef55ed3c0213c93ef71

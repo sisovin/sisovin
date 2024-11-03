@@ -35,6 +35,8 @@ Programming languages are the core tools used for software development. They pro
 - Java
 - Go
 - Python
+- Rush
+- Swift
 
 ### Frameworks and Libraries
 

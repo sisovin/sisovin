@@ -4,7 +4,7 @@
 
 I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. I am particularly interested in programming languages, frameworks, and the use of artificial intelligence (AI) models provided by the Llama provider to support and enhance software development activities. This includes the development, deployment, and maintenance of applications.
 
-- 🔭 I’m currently working on [Your Project](link-to-your-project)
+- 🔭 I’m currently working on [My Project](link-to-my-project)
 - 🌱 I’m currently learning [Technology or Skill]
 - 👯 I’m looking to collaborate on [Project or Idea]
 - 🤔 I’m looking for help with [Project or Idea]

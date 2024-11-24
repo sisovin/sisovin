@@ -48,7 +48,7 @@ Programming frameworks are collections of reusable code and libraries that provi
 - Next.js
 - React.js
 - Laravel
-- Blazor (.NET 8)
+- Asp.net Core and Blazor (Framework .NET 8 and Framework .Net 9)
 - Angular
 - Django
 - Flask

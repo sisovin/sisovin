@@ -36,6 +36,7 @@ Programming languages are the core tools used for software development. They pro
 - Go
 - Python
 - Rust
+- [Z]Zig
 - Swift
 - Ruby
 

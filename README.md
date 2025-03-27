@@ -83,7 +83,7 @@ When discussing the Llama provider and AI models in the context of programming l
 
 Here are some of my recent projects with links and descriptions:
 
-- [Project 1](link-to-project-1): Description of Project 1
+- [Full-Stack Mern Notes App](https://github.com/sisovin/mern-notes-app.git)): A full-stack note management application with user authentication, role-based access control, and comprehensive CRUD operations.
 - [Project 2](link-to-project-2): Description of Project 2
 - [Project 3](link-to-project-3): Description of Project 3
 
@@ -112,9 +112,9 @@ If you're interested in collaborating on a project or need help with a specific 
 
 Let's connect on social media or through email to stay in touch and discuss new project ideas.
 
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-- [GitHub](link-to-github)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sisovinchieng)
+- [Twitter](@NiewinCheung)
+- [GitHub](https://github.com/sisovin/sisovin/)
+- [Email](mailto:sisovin@outlook.com)
 
 Please note that I've organized the technologies into categories (Programming Languages, Frameworks and Libraries, Databases, and Other) to make it easier to scan and understand. I've also added a collaboration and help request section, as well as a call-to-action to connect with you. Feel free to customize it as you see fit!

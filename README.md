@@ -113,7 +113,7 @@ If you're interested in collaborating on a project or need help with a specific 
 Let's connect on social media or through email to stay in touch and discuss new project ideas.
 
 - [LinkedIn](https://www.linkedin.com/in/sisovinchieng)
-- [Twitter](@NiewinCheung)
+- [Twitter]([@NiewinCheung](https://x.com/NiewinCheung?t=cJkI6vwKYEVeAQgdf10u5Q&s=35))
 - [GitHub](https://github.com/sisovin/sisovin/)
 - [Email](mailto:sisovin@outlook.com)
 

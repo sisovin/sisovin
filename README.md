@@ -117,10 +117,10 @@ I'm a passionate developer with a love for creating innovative solutions and exp
   </div>
   
   <div class="project-card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <div style="background-color: #FF8C00; color: white; padding: 10px; font-weight: bold;">Project 3</div>
+    <div style="background-color: #FF8C00; color: white; padding: 10px; font-weight: bold;">AI Search Knowledge Agent</div>
     <div style="padding: 15px;">
-      <p>Description of Project 3</p>
-      <a href="link-to-project-3" style="color: #FF8C00; text-decoration: none; font-weight: bold;">View Project →</a>
+      <p>A Next.js 15 application that provides AI-powered search and knowledge management using Exa API and Supabase. The project is designed to be a comprehensive solution for building advanced search capabilities with a focus on performance, SEO, and user experience. It includes a responsive UI, authentication with multiple providers, and a vector database for semantic search.</p>
+      <a href="https://github.com/sisovin/ai-search-knowledge-agent.git" style="color: #FF8C00; text-decoration: none; font-weight: bold;">View Project →</a>
     </div>
   </div>
 </div>

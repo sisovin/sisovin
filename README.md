@@ -112,7 +112,7 @@ I'm a passionate developer with a love for creating innovative solutions and exp
     <div style="background-color: #FF8C00; color: white; padding: 10px; font-weight: bold;">ClaudeMate Agent</div>
     <div style="padding: 15px;">
       <p>A full-stack Claude-powered agent application built with Next.js 15 App Router, Tailwind CSS, ShadCN UI, Convex, WorkOS, and Claude 3.7 Sonnet. This project provides a production-ready chatbot interface with advanced AI capabilities powered by Anthropic's Claude model.</p>
-      <a href="link-to-project-2](https://github.com/sisovin/claudemate-agent)" style="color: #FF8C00; text-decoration: none; font-weight: bold;">View Project →</a>
+      <a href="https://github.com/sisovin/claudemate-agent.git" style="color: #FF8C00; text-decoration: none; font-weight: bold;">View Project →</a>
     </div>
   </div>
   

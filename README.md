@@ -37,16 +37,20 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 </details>
 
 ## GitHub Stats
+**GitHub Stats Card:**  
+   <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sisovin&show_icons=true&theme=great-gatsby" alt="GitHub Stats" width="75%" />
+</div>
 
+**Streak Stats (optional):**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sisovin&show_icons=true&theme=great-gatsby" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sisovin&theme=great-gatsby" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sisovin&theme=great-gatsby" alt="GitHub Streak" width="75%" />
 </div>
 
 ## Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisovin&layout=compact&theme=great-gatsby" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisovin&layout=compact&theme=great-gatsby" alt="Top Languages" width="75%" />
 </div>
 
 ## Technologies
